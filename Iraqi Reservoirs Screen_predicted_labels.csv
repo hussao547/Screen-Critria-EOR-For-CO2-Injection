@@ -1,0 +1,16 @@
+porosity,Permeability,Depth,API,Temperature,Viscosity,Predicted_Labels_Log_Reg,Predicted_Labels_Random_Forest,Predicted_Labels_Decision_Tree,Predicted_Labels_KNN
+0.2,5.0,9022.2,25.0,177.8,2.6,Very Good,Very Good,Very Good,Very Good
+0.25,10.0,8530.08,24.0,167.0,1.8,Very Good,Moderate,Moderate,Very Good
+0.18,17.0,9514.32,26.0,181.4,1.5,Very Good,Very Good,Very Good,Very Good
+0.185,7.0,10006.44,22.5,185.0,2.1,Moderate,Moderate,Moderate,Moderate
+0.16,35.0,12138.96,22.0,233.6,2.1,Moderate,Moderate,Moderate,Moderate
+0.15,6.0,13188.816,21.0,194.0,2.6,Moderate,Moderate,Moderate,Moderate
+11.4,2.4,14763.6,34.2,255.2,1.3,Very Good,Very Good,Very Good,Very Good
+21.0,102.0,1968.48,25.6,105.8,9.5,Very Poor,Very Poor,Very Poor,Very Poor
+20.0,6.0,9711.168,15.4,185.0,2.3,Moderate,Moderate,Moderate,Moderate
+25.0,10.3,9350.28,21.5,174.2,1.98,Very Good,Very Good,Very Good,Very Good
+18.0,4.7,8202.0,28.0,161.6,1.85,Very Good,Very Good,Very Good,Very Good
+17.0,13.0,7529.436,42.0,156.2,1.1,poor,Very Good,poor,poor
+29.0,10.0,2125.9584,25.6,109.4,8.9,Very Poor,Very Good,Very Good,Very Good
+18.0,23.0,10498.56,22.9,195.8,2.5,Very Good,Very Good,Very Good,Very Good
+16.0,18.0,9514.32,24.6,177.8,2.8,Very Good,Very Good,Very Good,Very Good

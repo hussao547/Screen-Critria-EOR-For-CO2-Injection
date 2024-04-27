@@ -1,0 +1,7 @@
+porosity,Permeability,Depth,API,Viscosity,Temperature,RF,Predicted_Labels_Log_Reg,Predicted_Labels_Random_Forest
+0.2,5,2750,25.0,2.6,81,,Very Good,Very Good
+0.25,10,2600,24.0,1.8,75,,Very Good,Very Good
+0.18,17,2900,26.0,1.5,83,,Poor,Poor
+0.185,7,3050,22.5,2.1,85,,Very Good,Very Good
+0.16,35,3700,22.0,2.1,112,,Poor,Poor
+0.15,6,4020,21.0,2.6,90,,Good,Good
